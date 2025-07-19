@@ -20,10 +20,10 @@ Es wurde entwickelt, um Kindern einen ersten spielerischen Zugang zur Gebärdens
 
 ## 📥 Download
 
-👉 [Hier klicken, um das Poster herunterzuladen]([Fingeralphabet%20A2%20v1.pdf](https://github.com/sZPeddy/LillyLernt/blob/main/Fingeralphabet%20A2%20v1.pdf))
+👉 [Hier klicken, um das Poster herunterzuladen](https://github.com/sZPeddy/LillyLernt/raw/main/Fingeralphabet%20A2%20v1.pdf)
 
-<a href="[Fingeralphabet%20A2%20v1.pdf](https://github.com/sZPeddy/LillyLernt/blob/main/Fingeralphabet%20A2%20v1.pdf)">
-  <img src="fingeralphabet-preview.png" alt="Vorschau des Posters" width="400"/>
+<a href="(https://github.com/sZPeddy/LillyLernt/raw/main/Fingeralphabet%20A2%20v1.pdf)">
+  <img src="fingeralphabet-preview.png" alt="Vorschau des Posters" width="600"/>
 </a>
 
 
