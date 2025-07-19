@@ -21,7 +21,10 @@ Es wurde entwickelt, um Kindern einen ersten spielerischen Zugang zur Gebärdens
 ## 📥 Download
 
 👉 [Hier klicken, um das Poster herunterzuladen](Fingeralphabet%20A2%20v1.pdf)
-[![Vorschau des Posters](fingeralphabet-preview.png)](Fingeralphabet%20A2%20v1.pdf)
+<a href="Fingeralphabet%20A2%20v1.pdf">
+  <img src="fingeralphabet-preview.png" alt="Vorschau des Posters" width="400"/>
+</a>
+
 
 Format: DIN A2, PDF  
 © 2025 
