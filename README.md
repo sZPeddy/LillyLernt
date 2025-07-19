@@ -20,7 +20,7 @@ Es wurde entwickelt, um Kindern einen ersten spielerischen Zugang zur Gebärdens
 
 ## 📥 Download
 
-👉 [Hier klicken, um das Poster herunterzuladen](Fingeralphabet A2 v1.pdf)
+👉 [Hier klicken, um das Poster herunterzuladen](Fingeralphabet%20A2%20v1.pdf)
 
 Format: DIN A2, PDF  
 © 2025 
